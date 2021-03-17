@@ -5,28 +5,28 @@ Création d'un forum de discussion avec Laravel 8
 
 ## Créer et voir les roles de users (Admin / Modo / Membre)
 
-    - L'administrateur a tous les droits
-    - Le modérateur a access a certains posts cachés, peut créer de nouveau posts, répondre a un post, modifier et supprimer ses propres posts
-    - Le membre n'a pas access aux posts cachés, peut créer de nouveau posts, répondre a un post, modifier et supprimer ses propres messages
-    - L'invité ne peut que lire les posts non caché
+ - L'administrateur a tous les droits
+ - Le modérateur a access a certains posts cachés, peut créer de nouveau posts, répondre a un post, modifier et supprimer ses propres posts
+ - Le membre n'a pas access aux posts cachés, peut créer de nouveau posts, répondre a un post, modifier et supprimer ses propres messages
+ - L'invité ne peut que lire les posts non caché
 
 ## Voir les users 
 
 (Nom user /Avatar / Mail / nb de sujets-posts / Role / Adresse / Anniversaire / Strava / Facebook / Telephone / Sexe / Reset  pwd / Signature)
 
-    - Modération des users
+ - Modération des users
 
-    - Voir le nb de sujets totaux
+ - Voir le nb de sujets totaux
 
-    - Voir le nb de posts totaux
+ - Voir le nb de posts totaux
 
-    - Créer un Forum
-    - Créer un sous forum
+ - Créer un Forum
+ - Créer un sous forum
 
-    - Modération des Forums et Sous forum (Acces lecture/ecriture)
+ - Modération des Forums et Sous forum (Acces lecture/ecriture)
 
-    - Ban des IPs / Users
-    - Interdire des mots / mails / noms de users
+ - Ban des IPs / Users
+ - Interdire des mots / mails / noms de users
  
 
 # Front-end
